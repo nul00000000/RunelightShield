@@ -1,2 +1,2 @@
 # RunelightShield
-Code for the Runelight shielf project for ehouse
+Code for the Runelight shielf project for Engineering House
